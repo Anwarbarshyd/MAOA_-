@@ -10,7 +10,7 @@
     ],
     "icon": "./src/assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
       "image": "./src/assets/splash-icon.png",
       "resizeMode": "contain",
@@ -36,7 +36,8 @@
         "CAMERA",
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE"
-      ]
+      ],
+      "package": "com.an_71.myreportapp"
     },
     "extra": {
       "eas": {
